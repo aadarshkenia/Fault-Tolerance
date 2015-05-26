@@ -1,0 +1,14 @@
+Nov 13, 2014 7:29:12 AM MonitorServers run
+INFO: Running thread : Tail pinger
+Nov 13, 2014 7:29:12 AM MonitorServers run
+INFO: Running thread : Middle pinger
+Nov 13, 2014 7:29:12 AM MonitorServers run
+INFO: Running thread : Head pinger
+Nov 13, 2014 7:29:24 AM MonitorTimestamp run
+INFO: SERVER 3 FAILED.
+Nov 13, 2014 7:29:24 AM MonitorTimestamp run
+INFO: Notifying other servers of failure.
+Nov 13, 2014 7:29:54 AM MonitorTimestamp run
+INFO: SERVER 2 FAILED.
+Nov 13, 2014 7:29:57 AM MonitorTimestamp run
+INFO: Tail 4 is new tail.

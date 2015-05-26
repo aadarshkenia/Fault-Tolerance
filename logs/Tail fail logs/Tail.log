@@ -1,0 +1,15 @@
+Nov 13, 2014 7:29:13 AM Pinger run
+INFO: Running thread Tail pinger
+Nov 13, 2014 7:29:13 AM ReceiveMasterNotifications run
+INFO: Running Tail receive notifications thread for receiving master notifications.
+Nov 13, 2014 7:29:13 AM Pinger run
+INFO: Socket Extablished...
+Nov 13, 2014 7:29:15 AM ServerCommunicationReceive run
+INFO: Receiving request from : A.1.0
+Nov 13, 2014 7:29:15 AM ServerCommunicationSend serial_sender
+INFO: Reply sent to client.
+Nov 13, 2014 7:29:15 AM ServerCommunicationSend serial_sender
+INFO: 
+ A.1.0 Status:PROCESSED Balance:2000
+Nov 13, 2014 7:29:24 AM ServerCommunicationReceive run
+INFO: Receiving request from : A.1.1

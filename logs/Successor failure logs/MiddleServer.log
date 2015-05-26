@@ -1,0 +1,10 @@
+Nov 13, 2014 7:27:02 AM ReceiveMasterNotifications run
+INFO: Running Middle receive notifications thread for receiving master notifications.
+Nov 13, 2014 7:27:02 AM Pinger run
+INFO: Running thread Middle pinger
+Nov 13, 2014 7:27:02 AM Pinger run
+INFO: Socket Extablished...
+Nov 13, 2014 7:27:04 AM ServerCommunicationReceive run
+INFO: Receiving request from : A.1.0
+Nov 13, 2014 7:27:13 AM ServerCommunicationReceive run
+INFO: Receiving request from : A.1.1

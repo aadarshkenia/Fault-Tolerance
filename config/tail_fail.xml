@@ -1,0 +1,16 @@
+<employees>
+  <server numberofservers = "3">
+    <server1 id="1" name="Head" threadname= "Head pinger" master_port ="6788" notification_port ="6789" server_listner_port ="6100" back_link_port = "7000" client_port="6500" extension_port ="7100" flag = "0" count ="100"></server1>
+    <server2 id="2" name="Middle" threadname= "Middle pinger" master_port ="6790" notification_port ="6791" server_listner_port ="6102" back_link_port = "7002" client_port="6502" extension_port ="7102" flag ="0" count ="100" ></server2>
+    <server3 id="3" name="Tail" threadname= "Tail pinger"  master_port ="6792" notification_port ="6793" server_listner_port ="6104" back_link_port = "7004" client_port="6504" extension_port ="7104" flag = "0" count ="6" ></server3> 
+  </server>
+ 
+
+  <client>
+   <account account_no="A.1" balance = "1000" head_port = "6000" tail_port = "6002"></account>
+   <account account_no="A.2" balance = "2000" head_port = "6000" tail_port = "6002"></account>
+  </client> 
+  
+</employees>
+
+	

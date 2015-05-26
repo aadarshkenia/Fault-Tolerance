@@ -1,0 +1,12 @@
+Nov 13, 2014 7:31:19 AM MonitorServers run
+INFO: Running thread : Head pinger
+Nov 13, 2014 7:31:19 AM MonitorServers run
+INFO: Running thread : Tail pinger
+Nov 13, 2014 7:31:19 AM MonitorServers run
+INFO: Running thread : Middle pinger
+Nov 13, 2014 7:31:19 AM MonitorServers run
+INFO: Running thread : Extend pinger
+Nov 13, 2014 7:31:26 AM MonitorServers run
+INFO: Request for EXTENDING CHAIN from Server 4
+Nov 13, 2014 7:31:26 AM MonitorServers doExtensionWork
+INFO: Tail 4 is new tail.
